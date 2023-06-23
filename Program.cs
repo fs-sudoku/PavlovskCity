@@ -10,6 +10,7 @@ namespace PavlovskCity
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Привет Павловск!");
         }
     }
 }
